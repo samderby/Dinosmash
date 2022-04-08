@@ -1,2 +1,2 @@
-# Dinosmash
+# DinoSmash
 Does what it says
